@@ -2,6 +2,7 @@
 A Machine learning based crop recommendation system that predicts the best crops to be grown based on the soil properties and weather conditions.
 
 *Requirements*
+
 The following packages need to be installed to run the system:-
 - Pandas
 - Numpy
